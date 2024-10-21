@@ -1,116 +1,114 @@
-<!-- Centered Title with Emojis -->
-<h1 align="center">
-  Welcome to <span style="color: #f7d433;">Likhon Sheikh's</span> Coding Universe! 🌍🚀
-</h1>
+<div align="center">
 
-<!-- Typing animation for dynamic text -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7D433&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;YouTube+Content+Creator;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
-  </a>
-</p>
+# 🌟 Welcome to Likhon Sheikh's Digital Playground 🚀
 
-<!-- Custom-made Badges using HTML & CSS for social icons with tooltips -->
-<p align="center">
-  <a href="https://youtube.com/learnwithlikhon" title="YouTube Channel">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/learnwithlikhon" title="Follow on Twitter">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/learnwithlikhon" title="Join Discord Community">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://dev.to/learnwithlikhon" title="Dev.to Blog">
-    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=flat&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://ko-fi.com/learnwithlikhon" title="Buy me a coffee">
-    <img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?style=flat&logo=ko-fi&logoColor=white" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7D433&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;YouTube+Content+Creator+%F0%9F%8E%A5;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/Learn_With_Likhon-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithlikhon)
+[![Twitter](https://img.shields.io/badge/Follow-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/learnwithlikhon)
+[![Discord](https://img.shields.io/badge/Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/learnwithlikhon)
+[![Dev.to](https://img.shields.io/badge/Tech_Blog-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/learnwithlikhon)
+[![Ko-Fi](https://img.shields.io/badge/Support_Me-%23FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/learnwithlikhon)
+
+</div>
 
 ---
 
-## 🚀 **About Me**
+## 💫 About Me
 
-> **🇧🇩 Based in Bangladesh | 💻 Full Stack Web Developer | 🎥 Content Creator**
+> *Transforming ideas into digital reality, one line of code at a time.*
 
-```diff
-+ Passionate about open-source and cloud computing.
-! Co-founder of Rexx Cheat, Bangladesh's first digital marketing agency.
-- Focused on Next.js, React, TypeScript, and cloud-native applications.
-# Guitar enthusiast and fitness lover!
+```javascript
+const likhon = {
+    location: "Bangladesh 🇧🇩",
+    role: "Full Stack Developer",
+    passion: ["Web Development", "Open Source", "Teaching"],
+    business: "Co-founder @ Rexx Cheat",
+    hobbies: ["Guitar 🎸", "Fitness 💪", "Teaching 👨‍🏫"],
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+        cloud: ["AWS", "Vercel", "Digital Ocean", "Firebase"],
+        tools: ["Docker", "Git", "VSCode", "Figma"]
+    }
+};
+```
 
-	I’m always learning, building, and sharing.
+## 🛠️ Technology Arsenal
 
-🛠️ Tech Stack
+<div align="center">
 
-Category	Skills
-Languages	 
+### 💻 Languages & Frameworks
 
- 
-Frameworks	 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
- 
-Cloud	 
+### ☁️ Cloud & DevOps
 
- 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-	Here’s a summary of the core technologies I work with!
+</div>
 
-📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<!-- Introducing GitHub badges with theming and custom metrics -->
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithlikhon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithlikhon&layout=compact&langs_count=7&theme=radical&border_radius=8"/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=learnwithlikhon&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithlikhon&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithlikhon&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=learnwithlikhon&theme=radical&border_radius=8)](https://git.io/streak-stats)
 
+</div>
 
-🎥 Latest YouTube Videos
+## 🎥 Latest YouTube Content
 
-<!-- This can be automatically updated with a GitHub Action -->
+<!-- YOUTUBE:START -->
+- 🔥 [Advanced React Patterns You Need to Know]()
+- 💡 [Building Scalable APIs with Node.js]()
+- 🚀 [Next.js 13 Complete Course]()
+- 📚 [TypeScript Tips and Tricks]()
+<!-- YOUTUBE:END -->
 
+▶️ [Subscribe for more tutorials!](https://youtube.com/learnwithlikhon)
 
-<p align="center">
-  <!-- YOUTUBE:START -->
-  <!-- YOUTUBE:END -->
-</p>
-<p align="center">
-  ▶️ [More Videos...](https://www.youtube.com/channel/learnwithlikhon)
-</p>
+## 🌟 Featured Projects
 
+<div align="center">
 
-📘 Top Open Source Projects
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=learnwithlikhon&repo=project1&theme=radical&border_radius=8)](https://github.com/learnwithlikhon/project1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=learnwithlikhon&repo=project2&theme=radical&border_radius=8)](https://github.com/learnwithlikhon/project2)
 
-<p align="center">
-  <a href="https://github.com/learnwithlikhon/project1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=learnwithlikhon&repo=project1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/learnwithlikhon/project2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=learnwithlikhon&repo=project2&theme=radical" alt="Project 2" />
-  </a>
-</p>
+</div>
 
+## 📫 Connect With Me
 
-💬 Get in Touch
+<div align="center">
 
-	•	Email: learnwithlikhon@gmail.com
-	•	Website: learnwithlikhon.pages.dev
-	•	Portfolio: learnwithlikhon.vercel.app
+[![Email](https://img.shields.io/badge/Email-learnwithlikhon%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learnwithlikhon@gmail.com)
+[![Website](https://img.shields.io/badge/Website-learnwithlikhon.pages.dev-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://learnwithlikhon.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-learnwithlikhon.vercel.app-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://learnwithlikhon.vercel.app)
 
+</div>
 
+---
 
-<h3 align="center">
-    Thanks for visiting! 😊
-</h3>
+<div align="center">
 
+### 💝 Thank you for visiting! 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=learnwithlikhon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=learnwithlikhon&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+
+*"The only way to do great work is to love what you do." - Steve Jobs*
+
+</div>
