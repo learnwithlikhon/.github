@@ -1,6 +1,9 @@
 <div align="center">
 
-# 🌟 Welcome to Likhon Sheikh's Digital Playground 🚀
+  <h1>Likhon Sheikh</h1>
+  <p>
+    <strong>Full-stack TypeScript & Python Developer! 🚀❤️ </strong>  
+  </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7D433&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;YouTube+Content+Creator+%F0%9F%8E%A5;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
